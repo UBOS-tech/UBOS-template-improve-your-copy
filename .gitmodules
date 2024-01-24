@@ -1,0 +1,8 @@
+[submodule "UBOS-template-improve-your-copy-nr"]
+	path = UBOS-template-improve-your-copy-nr
+	branch = master
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-improve-your-copy-nr.git
+[submodule "UBOS-template-improve-your-copy-ui"]
+	path = UBOS-template-improve-your-copy-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-improve-your-copy-ui.git
+	branch = main
